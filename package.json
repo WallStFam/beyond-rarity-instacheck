@@ -11,6 +11,11 @@
 	},
 	"author": "Nico Panfili (nico@beyondrarity.com)",
 	"license": "MIT",
+	"homepage": "https://beyondrarity.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WallStFam/beyond-rarity-instacheck"
+	},
 	"devDependencies": {
 		"@babel/core": "^7.18.9",
 		"@babel/preset-react": "^7.18.6",
