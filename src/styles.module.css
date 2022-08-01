@@ -123,6 +123,7 @@
 }
 
 .infoBtn {
+	box-sizing: content-box;
 	position: absolute;
 	bottom: 8px;
 	right: 8px;
