@@ -144,7 +144,7 @@
 .infoBtn .closeDash {
 	position: absolute;
 	top: 4px;
-	left: 7px;
+	left: 8px;
 	width: 2px;
 	background-color: #6e707d;
 	height: 10px;
@@ -163,6 +163,7 @@
 	transform: scale3d(1, 1, 1);
 	transition: transform 0.25s, opacity 0.25s;
 	padding-top: 1px;
+	padding-left: 1px;
 }
 .infoIcon.open {
 	opacity: 0;
@@ -261,17 +262,18 @@
 	transform: scale(1);
 	opacity: 1;
 }
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-	only screen and (-webkit-device-pixel-ratio: 2) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
 	.infoBtn {
 		width: 16px;
 		height: 16px;
 	}
 	.infoIcon {
 		padding-top: 0;
+		padding-left: 0;
 	}
 	.infoBtn .closeDash {
 		top: 3.5px;
+		left: 7px;
 		height: 9px;
 	}
 }
