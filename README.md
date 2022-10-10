@@ -1,4 +1,6 @@
 # Beyond Rarity Instacheck widget
+This page is instructions for the React component.
+If you are using plain JS you can see instructions here: https://github.com/WallStFam/beyond-rarity-instacheck-js
 
 <p float="left">
   <img src="public/light-theme.png"
