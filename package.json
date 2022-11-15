@@ -1,13 +1,14 @@
 {
 	"name": "@beyondrarity/instacheck",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"description": "Beyond Rarity Instacheck widget",
 	"main": "dist/index.js",
 	"module": "dist/index.es.js",
 	"scripts": {
 		"storybook": "start-storybook -p 6006",
 		"build-storybook": "build-storybook",
-		"build-lib": "rollup -c"
+		"build-lib": "rollup -c",
+		"publish": "npm publish --scope=@beyondrarity --access=public"
 	},
 	"author": "Nico Panfili (nico@beyondrarity.com)",
 	"license": "MIT",
