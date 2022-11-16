@@ -1,4 +1,4 @@
-# Beyond Rarity Instacheck widget
+# Beyond Rarity Instacheck Widget
 This page has instructions for the React component.
 
 If you are using plain JS you can see instructions here: https://www.npmjs.com/package/@beyondrarity/instacheck-js
@@ -17,7 +17,7 @@ If you are using plain JS you can see instructions here: https://www.npmjs.com/p
 
 
 
-### You can try a live demo [here](https://codepen.io/nicopanfili/pen/GRxmPeW)
+### Check out the [BR-InstaCheck Widget Live Demo](https://codepen.io/nicopanfili/pen/GRxmPeW) on CodePen.
 
 ## Installation
 Using **NPM**:
